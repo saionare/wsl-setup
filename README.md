@@ -97,6 +97,8 @@ PostgreSQL предназначен для хранения, обработки 
 sudo service postgresql status
 ```
 
+<img width="1920" height="1080" alt="image_2026-10-22_23-21-49" src="https://github.com/user-attachments/assets/57656133-539e-4146-a7cd-ef4951aef9dd" />
+
 Затем выполнен SQL-запрос для получения информации о версии сервера:
 
 ```bash
