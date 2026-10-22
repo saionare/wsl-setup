@@ -28,7 +28,7 @@ whoami
 
 Команда выводит имя текущего пользователя Linux.
 
-<img width="1920" height="1080" alt="image_2026-10-22_23-32-18" src="https://github.com/user-attachments/assets/7a48a4f6-598b-40ba-9453-cf154f327801" />
+<img width="1920" height="1080" alt="image_2026-10-23_00-02-48" src="https://github.com/user-attachments/assets/1954fac6-8504-412e-9cb6-2591e4cef081" />
 
 ## 4. Обновление пакетов Ubuntu
 
